@@ -37,7 +37,8 @@ Coding and messing with data structures is my hobby! I've played with Python, Ja
 
 ## **Contact me**
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/henry-nguyen-a663b6285">LinkedIn</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/henry-nguyen-a663b6285">LinkedIn</a>
 
 
 
