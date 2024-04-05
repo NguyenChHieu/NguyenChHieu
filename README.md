@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Henry!
 
 ##  **Brief**
-
-Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
++ Computational Data Science & Software Development B.AdvComp at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>
++ Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
 <div class="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
