@@ -9,7 +9,7 @@
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 23%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt" /></div>
+<img style="height: auto; width: 22%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt" /></div>
 </div>         
 
 ### 📋 **Programming Languages**:
