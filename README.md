@@ -5,11 +5,7 @@
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
-<div class="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu" alt="Henry's GitHub stats">
-  </a>
-</div>
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📋 **Programming Languages**:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
