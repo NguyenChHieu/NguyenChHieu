@@ -37,6 +37,8 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://www.linkedin.com/in/henry-nguyen-a663b6285">LinkedIn</a>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:nguyenchihieu178205@gmail.com">Mail</a>
 
 
 
