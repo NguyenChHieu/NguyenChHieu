@@ -6,10 +6,10 @@
 + Coding and messing with data structures is my hobby! I've worked with Python and Java with some Unix-related and front-end knowledge. I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
 
 <div class='container'>
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt" /></div>
+<img style="height: auto; width: 30%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt" /></div>
 </div>         
 
 ### 📋 **Programming Languages**:
