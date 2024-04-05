@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Henry!
 
 ##  **Brief**
-+ 🎓 Computational Data Science & Software Development B.AdvComp at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>
++ 🎓 Computational DS & SWE Development B.AdvComp at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
