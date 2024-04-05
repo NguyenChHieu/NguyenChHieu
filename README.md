@@ -6,7 +6,7 @@
 + Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
           
-[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📋 **Programming Languages**:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
