@@ -5,6 +5,7 @@
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
+&hide = issues
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📋 **Programming Languages**:
