@@ -4,7 +4,8 @@
 ##  **Brief**
 + 🎓 Computational DS & SWE Development B.AdvComp Freshman at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
-+ Coding and messing with data structures is my hobby! I've worked with Python and Java with some Unix-related and front-end knowledge. I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
++ Worked with Python and Java with some Unix-related and front-end knowledge.
++ I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
 
 <div class='container'>
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
