@@ -5,8 +5,10 @@
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + Coding and messing with data structures is my hobby! I've worked with Python and Java with some Unix-related and front-end knowledge. I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
 
-          
-          [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
+&nbsp;
+</div>         
 
 ### 📋 **Programming Languages**:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,7 +19,9 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
+<div class='container'>
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 ### 🖥️ **DS & ML**: 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
