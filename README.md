@@ -19,6 +19,8 @@ Coding and messing with data structures is my hobby! I've played with Python, Ja
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🖥️ **DS & ML**: PyTorch / sci-kit-learn / Pandas / NumPy / matplotlib
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -32,7 +34,6 @@ Coding and messing with data structures is my hobby! I've played with Python, Ja
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **Contact me**
 
