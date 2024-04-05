@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Henry!
-
+## Visitor Count
+![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
 + 🎓 Computational DS & SWE Development B.AdvComp at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>
 + 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
