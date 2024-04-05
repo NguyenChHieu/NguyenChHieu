@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Henry!
+# Hi there 👋, I'm Henry!
 
-**Brief**
+##  **Brief**
 
 Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
