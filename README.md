@@ -4,11 +4,11 @@
 
 Coding and messing with data structures is my hobby! I've played with Python, Java with some Unix-related knowledges. I also enjoy creating AI-related projects in my free time.
 
-[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrynguyen)](https://github.com/anuraghazra/github-readme-stats)
+[![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
 
 **Skills**: Python / Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrynguyen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu)](https://github.com/anuraghazra/github-readme-stats)
 
 **Contact me**
 
