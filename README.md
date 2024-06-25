@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
 + 🎓 Computational DS & SWE Development B.AdvComp Freshman at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
-+ 📶 My recent project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
-+ 👀 Upcoming project release: Tanks Game!
++ 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
++ 👀 My recent game: <a href="https://github.com/NguyenChHieu/Tanks">Tanks Game!</a>
 + 👨‍💻 Worked with Python and Java with some Unix-related and front-end knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
 
