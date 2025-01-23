@@ -71,9 +71,11 @@
 + ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <a href="mailto:nguyenchihieu178205@gmail.com">Mail</a>
 
++ ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+<a href="https://leetcode.com/u/HieuLaptop/">Go!</a>
 
-
-
++ ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+<a href="https://www.hackerrank.com/profile/HenryNgg">Go!</a>
 
 
 
