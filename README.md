@@ -2,12 +2,12 @@
 ## Visitor Count
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
-+ 🎓 Computational DS & Software Development B.AdvComp Sophomore at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
-+ 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
++ 🎓 Software Development & Computational DS B.AdvComp Sophomore at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Upcoming project: B4ExamBuddy
 + 👀 My recent game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
-+ 👨‍💻 Worked with Python and Java with some Unix-related and front-end knowledge.
-+ 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and sci-kit-learn.
++ 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
++ 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
++ 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
 <div class='container'>
 <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
@@ -77,9 +77,3 @@
 
 + ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 <a href="https://www.hackerrank.com/profile/HenryNgg">Go!</a>
-
-
-
-
-
-
