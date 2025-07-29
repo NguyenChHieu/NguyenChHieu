@@ -9,12 +9,11 @@
 + 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
-<div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 22%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt&layout=donut-vertical" /></div>
-</div>         
+<div align="center">
+  <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
+  <br><br>
+  <img style="height: auto; width: 22%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt&layout=donut-vertical" />
+</div>
 
 ---
 
