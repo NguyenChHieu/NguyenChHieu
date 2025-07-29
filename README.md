@@ -16,6 +16,8 @@
 <img style="height: auto; width: 22%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt" /></div>
 </div>         
 
+---
+
 ### 📋 **Tools**:
 
 #### **Languages + Scripting**
