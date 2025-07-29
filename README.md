@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Henry!
 ## Visitor Count
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
+![Visitor Count](https://profile-counter.glitch.me/NguyenChHieu/count.svg)
 ##  **Brief**
 + 🎓 Software Development & Computational DS B.AdvComp Sophomore at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Upcoming project: B4Exam
