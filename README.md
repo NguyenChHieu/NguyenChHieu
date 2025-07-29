@@ -114,7 +114,7 @@
 
 ---
 
-## **Contact me**
+## **Contact me** (click on the icons!) :blush:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henry-nguyen-a663b6285">
