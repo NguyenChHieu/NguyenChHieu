@@ -119,7 +119,7 @@
   <a href="https://www.linkedin.com/in/henry-nguyen-a663b6285">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nchieuu_/">
+  <a href="https://www.instagram.com/hieuung_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:nguyenchihieu178205@gmail.com">
