@@ -2,7 +2,7 @@
 ## Visitor Count
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
-+ 🎓 Software Development & Computational DS B.AdvComp Sophomore at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
++ 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Upcoming project: B4Exam
 + 👀 My recent game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
 + 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
