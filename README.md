@@ -3,13 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
 + 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
-+ 👀 Upcoming project: B4Exam
++ 👀 Current project: B4Exam
 + 👀 My recent game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
 + 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
-+ Check out my portfolio <a href="https://nguyenchhieu.github.io/">here</a>
+
+#### **Check out my portfolio <a href="https://nguyenchhieu.github.io/">HERE</a>**
 
 <div align="center">
   <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
