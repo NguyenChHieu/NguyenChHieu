@@ -9,8 +9,9 @@
 + 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
-
-#### **Check out my portfolio <a href="https://nguyenchhieu.github.io/">HERE</a>**
+---
+## **Check out my portfolio <a href="https://nguyenchhieu.github.io/">HERE</a>**
+---
 
 <div align="center">
   <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
