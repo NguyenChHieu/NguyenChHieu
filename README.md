@@ -147,5 +147,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
   </a>
+
+  <img src="https://stats.justsong.cn/api/leetcode/?username=quanpeng&theme=tokyonight" width="400" height="400">
 </p>
 
