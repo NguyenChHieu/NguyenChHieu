@@ -14,9 +14,10 @@
 ---
 
 <div align="center">
-  <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt" />
-  <br><br>
-  <img style="height: auto; width: 22%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt&layout=donut-vertical" />
+  <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt"
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu&show_icons=true&theme=radical)/>
+  <br/>
+  <img style="height: auto; width: 22%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt&layout=donut-vertical" />  
 </div>
 
 ---
