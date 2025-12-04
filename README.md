@@ -10,7 +10,7 @@
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
 ---
-## **Check out my portfolio <a href="https://nguyenchhieu.github.io/">HERE</a>**
+## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
 ---
 
 <div align="center">
