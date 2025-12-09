@@ -19,10 +19,14 @@
   <br><br>
   <img style="height: auto; width: 22%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchhieu&show_icons=true&theme=cobalt&layout=donut-vertical" />   -->
 
-  <img style="height: auto;" src="https://streak-stats.demolab.com/?user=nguyenchhieu&theme=dark" />  
+  <!-- <img style="height: auto;" src="https://streak-stats.demolab.com/?user=nguyenchhieu&theme=dark" />   -->
 
   <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/overview.svg#gh-dark-mode-only" />  
   <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+
+  <img style="height: auto;" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
+  <img style="height: auto;" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
+
 </div>
 
 ---
