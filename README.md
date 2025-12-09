@@ -13,7 +13,7 @@
 ## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
 ---
 
-<div align="center">
+<div style="display: flex; gap: 16px;" align="center">
   <!-- <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=nguyenchhieu&hide=issues&show_icons=true&theme=cobalt"
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenchhieu&show_icons=true&theme=radical)/>
   <br><br>
@@ -24,8 +24,8 @@
   <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/overview.svg#gh-dark-mode-only" />  
   <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 
-  <img style="height: auto;" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
-  <img style="height: auto;" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
+  <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/languages.svg#gh-dark-mode-only" />  
+  <img style="height: auto;" src="https://raw.githubusercontent.com/nguyenchhieu/github-stats/master/generated/languages.svg#gh-light-mode-only" /> 
 
 </div>
 
