@@ -9,6 +9,10 @@
 + 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
++ **Fun facts about meee**:
+  + I was called the "streak" guy, as I'm currently having a 1 year+ Leetcode Daily streak, 250+ Linkedin Zip, 840+ Duolingo
+  + Currently attempting Advent of Code 25', and it's hard as fk ngl
+
 ---
 ## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
 ---
