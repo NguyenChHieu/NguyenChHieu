@@ -11,7 +11,7 @@
 
 + **Fun facts about meee**:
   + I was called the "streak" guy, as I'm currently having a 1 year+ Leetcode Daily streak, 250+ Linkedin Zip, 840+ Duolingo
-  + Currently attempting **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard as fk ngl
+  + Attempted **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard ngl (solved til P9.1)
 
 ---
 ## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
