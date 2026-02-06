@@ -4,13 +4,13 @@
 ##  **Brief**
 + 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Current project: B4Exam
-+ 👀 My recent game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
-+ 📶 My recent ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
-+ 👨‍💻 Worked with multiple backend programming frameworks, languages, with data analytics knowledge.
++ 👀 My lastest game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
++ 📶 My latest ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
++ 👨‍💻 Worked with multiple backend programming frameworks and languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
 + **Fun facts about meee**:
-  + I was called the "streak" guy, as I'm currently having a 1 year+ Leetcode Daily streak, 250+ Linkedin Zip, 840+ Duolingo
+  + I was called the "streak" guy, as I'm currently having a 400+ Leetcode Daily streak, 300+ Linkedin Zip, 870+ Duolingo
   + Attempted **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard ngl (solved til P9.1)
 
 ---
