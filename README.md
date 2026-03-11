@@ -10,8 +10,9 @@
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
 + **Fun facts about meee**:
-  + I was called the "streak" guy, as I'm currently having a 400+ Leetcode Daily streak, 300+ Linkedin Zip, 870+ Duolingo
+  + I was called the "streak" guy, as I'm currently having a 400+ Leetcode Daily streak, 350+ Linkedin Zip, 900+ Duolingo
   + Attempted **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard ngl (solved til P9.1)
+  + Currently a **<a href="https://www.summerofbitcoin.org/">Summer of Bitcoin</a>** applicant, and attempting round 3!
 
 ---
 ## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
