@@ -4,8 +4,6 @@
 ##  **Brief**
 + 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Current project: B4Exam
-+ 👀 My lastest game: <a href="https://github.com/NguyenChHieu/PacQuest">Pac-Quest!</a>
-+ 📶 My latest ML project: <a href="https://github.com/NguyenChHieu/FashionMNISTV2">FashionMNISTV2</a>
 + 👨‍💻 Worked with multiple backend programming frameworks and languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
