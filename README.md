@@ -10,7 +10,8 @@
 + **Fun facts about meee**:
   + I was called the "streak" guy, as I'm currently having a 400+ Leetcode Daily streak, 350+ Linkedin Zip, 900+ Duolingo
   + Attempted **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard ngl (solved til P9.1)
-  + Currently a **<a href="https://www.summerofbitcoin.org/">Summer of Bitcoin</a>** applicant, passed round 3, and I made it into the proposal round!
+  + Was a **<a href="https://www.summerofbitcoin.org/">Summer of Bitcoin</a>** applicant, passed round 3, and I made it into the proposal round!
+  + Got into Airwallex as an intern!
 
 ---
 ## **CHECK OUT MY PORTFOLIO <a href="https://nguyenchhieu.github.io/">HERE</a>!!!**
