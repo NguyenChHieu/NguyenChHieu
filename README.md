@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nguyenchhieu&color=gray)
 ##  **Brief**
 + 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
-+ 👀 Current project: B4Exam
++ 👀 Current project: Pickleball Availability
 + 👨‍💻 Worked with multiple backend programming frameworks and languages, with data analytics knowledge.
 + 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
 
