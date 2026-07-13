@@ -8,8 +8,7 @@
 + 🎓 Software Development & Computational DS B.AdvComp Senior at <a href="https://www.sydney.edu.au/" alt = "usyd">University of Sydney</a>.
 + 👀 Current project: Pickleball Availability
 + 👨‍💻 Worked with multiple backend programming frameworks and languages, with data analytics knowledge.
-+ 🤖 I also enjoy creating AI-related projects in my free time with PyTorch and scikit-learn.
-
+  
 + **Fun facts about meee**:
   + I was called the "streak" guy, as I'm currently having a 400+ Leetcode Daily streak, 350+ Linkedin Zip, 900+ Duolingo
   + Attempted **<a href="https://adventofcode.com/">Advent of Code 25'</a>**, and the last few days is hard ngl (solved til P9.1)
